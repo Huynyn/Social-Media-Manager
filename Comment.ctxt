@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Comment
+comment1.params=shtNumComments\ strCommenter\ textContent
+comment1.target=Comment(short,\ java.lang.String,\ TextContent)
+comment2.params=
+comment2.target=java.lang.String\ getCommentInformation()
+numComments=3

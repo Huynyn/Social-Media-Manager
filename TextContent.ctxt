@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TextContent
+comment0.text=\r\n\ \ TextContent\ class\ inherits\ the\ Content\ class,\ thereby\ becoming\ a\ specialized\ type\ of\ Content.\ \ Child\ of\ Content\ has\ a\ short\ that\ tracks\ the\ length\ of\ Content\r\n\r\n\r\n\ @author\ (Huy\ Nguyen)\r\n\ @version\ (2023-10-16)\r\n
+comment1.params=strContent
+comment1.target=TextContent(java.lang.String)
+numComments=2

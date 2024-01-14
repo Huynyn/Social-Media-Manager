@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SocialMediaManager
+comment1.params=
+comment1.target=SocialMediaManager()
+comment10.params=Commenter\ post\ strComment
+comment10.target=void\ addComment(UserProfile,\ Post,\ java.lang.String)
+comment11.params=
+comment11.target=void\ reloadFeed()
+comment2.params=user
+comment2.target=java.lang.String\ createUserProfile(UserProfile)
+comment3.params=user
+comment3.target=boolean\ checkIfUserExists(UserProfile)
+comment4.params=strUsername
+comment4.target=UserProfile\ search(java.lang.String)
+comment5.params=userProfile
+comment5.target=boolean\ setUser(UserProfile)
+comment6.params=Poster\ content
+comment6.target=void\ createPost(UserProfile,\ Content)
+comment7.params=uspPoster\ bytIndex
+comment7.target=Post\ getPostOfUser(UserProfile,\ byte)
+comment8.params=
+comment8.target=Post\ getCurrentPost()
+comment9.params=bytIncrement
+comment9.target=boolean\ incrementPostIndex(byte)
+numComments=12

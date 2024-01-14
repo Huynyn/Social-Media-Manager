@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Post
+comment1.params=content\ strPoster
+comment1.target=Post(Content,\ java.lang.String)
+comment2.params=strCommenter\ strComment
+comment2.target=void\ addCommentOnPost(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ commentsToString()
+comment5.params=
+comment5.target=short\ getPostID()
+numComments=6

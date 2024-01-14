@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HuyNguyenTestClass
+comment0.text=\r\n\ Test\ Class\ is\ used\ to\ test\ social\ media\ platform\ system\ by\ creating\ an\ instance\ of\ the\ manager\ class\ and\ the\ gui\ class\r\n\ The\ test\ class\ hardcodes\ the\ objects\ and\ their\ attributes\ of\ the\ social\ media\ system,\ building\ the\ system.\ \ Vizualiation\ of\ the\ system\ is\ effectuated\ through\ the\ gui\ system.\ \ \r\n\r\n\ @author\ (Huy\ Nguyen)\r\n\ @version\ (2023-1016)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

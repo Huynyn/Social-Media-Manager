@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GraphicsInterface
+comment1.params=socialMediaManager
+comment1.target=GraphicsInterface(SocialMediaManager)
+comment2.params=
+comment2.target=void\ launch()
+comment3.params=strSearchQuery
+comment3.target=void\ BtnSearchPressed(java.lang.String)
+comment4.params=
+comment4.target=void\ BtnBackPressed()
+comment5.params=
+comment5.target=void\ btnForwardPressed()
+comment6.params=
+comment6.target=void\ Reload()
+comment7.params=
+comment7.target=void\ setPostAndComment()
+numComments=8

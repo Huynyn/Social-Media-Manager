@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ImageContent
+comment0.text=\r\n\ ImageContent\ class\ inherits\ the\ Content\ class,\ thereby\ becoming\ a\ specialized\ type\ of\ Content.\ \ Child\ of\ Content\ has\ a\ String\ that\ tracks\ the\ ImageType\ of\ Content\r\n\r\n\ @author\ (Huy\ Nguyen)\r\n\ @version\ (2023-10-16)\r\n
+comment1.params=strContent\ strImageType
+comment1.target=ImageContent(java.lang.String,\ java.lang.String)
+numComments=2
